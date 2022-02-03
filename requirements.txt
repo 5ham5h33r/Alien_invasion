@@ -1,0 +1,4 @@
+In order to make changes/run the code without using the compiled version you'd require the following:
+
+Python 3 (Lower versions might work but not tested)
+PyGame Module
