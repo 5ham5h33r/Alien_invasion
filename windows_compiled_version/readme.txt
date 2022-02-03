@@ -1,4 +1,4 @@
-In this archive, you'll find a compiled alien_invasion.exe file and some assets essential to run the exe.
+In this archive, you'll find a compiled alien_invasion.exe file and some assets essential to run the exe. 
 
 Ensure that you have extracted this archive before attempting to run alien_invasion.exe 
 
